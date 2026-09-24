@@ -16,7 +16,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude directl
 
 | Property | Details |
 |---|---|
-| **Leaked** | 2026-03-31 |
+| Leaked | 2026-03-31 |
 | **Language** | TypeScript (strict) |
 | **Runtime** | [Bun](https://bun.sh) |
 | **Scale** | ~1,900 files · 512,000+ lines of code |
